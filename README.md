@@ -7,7 +7,7 @@ This repo contains tools intended to assistCurrent tools in this repo:
 
 ## Contribute
 
-We welcome contributions from the community containing additional relevant tools. [Here are more details on how to contribute.](https://github.com/tetrascience/ts-tools/Contributing.md)
+We welcome contributions from the community containing additional relevant tools. [Here are more details on how to contribute.](https://github.com/tetrascience/ts-tools/CONTRIBUTING.md)
 
 ## Disclaimer
 
