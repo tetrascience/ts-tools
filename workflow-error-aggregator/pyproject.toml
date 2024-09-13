@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "ts-bulk-file-downloader"
+version = "0.1.0"
+description = "Download files in bulk from TDP"
+authors = ["TetraScience"]
+packages = [{ include = "main.py" }]
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/tetrascience/di-team-tools/bulk-file-downloader"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pydash = "*"
+requests = "*"
+pandas = "*"
+typing_extensions = "*"
+loguru = "^0.6.0"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^22.10.0", allow-prereleases = true}
+
+
+[[tool.poetry.source]]
+name = "ts_pypi_virtual"
+url = "https://tetrascience.jfrog.io/artifactory/api/pypi/ts-pypi-virtual/simple"
+default = true
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
