@@ -3,7 +3,7 @@ TetraScience Scientific Data and AI Cloud tools
 
 ## Overview
 This repo contains tools intended to assistCurrent tools in this repo: 
-* [Workflow error aggregator] (https://github.com/tetrascience/ts-tools/workflow-error-aggregator)
+* [Workflow error aggregator](https://github.com/tetrascience/ts-tools/workflow-error-aggregator)
 
 ## Contribute
 
