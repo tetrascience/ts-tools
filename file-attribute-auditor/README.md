@@ -12,4 +12,5 @@ The attribute audit notebook aims to provide insight into the following 3 areas:
 
 1. Download file attribute auditor notebook
 2. Fill in the connection variables (TDP host name, org slug, user token)
-3. Run notebook
+3. Clear example output in notebook that has been provided for reference of expected output
+4. Run notebook
