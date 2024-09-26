@@ -1,6 +1,6 @@
 # File Attribute Auditor
 
-The attribute audit notebook is provided as a resource to be used with the [Programmatic auditing of file attributes](https://tetrascience.zendesk.com/hc/en-us/articles/30569863557133-Programmatic-auditing-of-file-attributes) TetraConnect Hub article. The aim of the notebook to provide insight into the following 3 areas:
+The attribute audit notebook is provided as a resource to be used with the [Programmatic auditing of file attributes](https://tetrascience.zendesk.com/hc/en-us/articles/30569863557133-Programmatic-auditing-of-file-attributes) TetraConnect Hub article. The aim of the notebook is to provide insight into the following 3 areas:
 
 **Top level review of attribute key names and associated file counts:** this view can be utilized to determine how many files comply with business rules regarding application of file attributes. For example, do all ingested files have critical instrument details associated with them like Instrument Vendor and Instrument Model? 
 
