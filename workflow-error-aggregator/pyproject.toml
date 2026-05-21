@@ -11,7 +11,7 @@ repository = "https://github.com/tetrascience/di-team-tools/bulk-file-downloader
 [tool.poetry.dependencies]
 python = "^3.8"
 pydash = "*"
-requests = "*"
+requests = "^2.31.0"
 pandas = "*"
 typing_extensions = "*"
 loguru = "^0.6.0"
